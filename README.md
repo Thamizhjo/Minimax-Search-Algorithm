@@ -1,5 +1,5 @@
 <h1>ExpNo 6: Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Thamizh kumaran  </h3>
+<h3>Name: THAMIZH KUMARAN  </h3>
 <h3>Register Number:    212223240166 </h3>
 <H3>Aim:</H3>
 <p>
